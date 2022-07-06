@@ -1,3 +1,4 @@
+@wip
 Feature: As a user should book a room for events
 
   Scenario: USer should book a room
